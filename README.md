@@ -37,7 +37,7 @@ console.log(result);
 */
 ```
 
-Calculate max loan amount.
+Calculate max loan amount
 
 ```javascript
 const result = mortgageCalculate({
