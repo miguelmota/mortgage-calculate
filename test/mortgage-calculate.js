@@ -1,7 +1,7 @@
 const test = require('tape');
 const mortgageCalculate = require('../mortgage-calculate');
 
-test('flowright', function (t) {
+test('mortgage', function (t) {
   'use strict';
 
   t.plan(23);
