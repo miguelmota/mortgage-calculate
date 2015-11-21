@@ -1,0 +1,24 @@
+{
+  "name": "mortgage-calculate",
+  "main": "mortgage-calculate.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miguelmota/mortgage-calculate",
+  "authors": [
+    "Miguel Mota <hello@miguelmota.com>"
+  ],
+  "description": "Calculate mortgage payments.",
+  "keywords": [
+    "mortgage",
+    "calculator",
+    "interest",
+    "math"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
